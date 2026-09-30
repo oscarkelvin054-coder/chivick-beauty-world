@@ -1,2 +1,2 @@
 # chivick-beauty-world
-Live: https://lime-lin-10.tiiny.site
+Live:https://chivick-beauty-world.tiiny.site
