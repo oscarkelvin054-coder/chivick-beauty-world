@@ -1,2 +1,2 @@
 # chivick-beauty-world
-Live:https://chivick-beauty-world.tiiny.site
+Live: https://chivik-beauty-world.netlify.app
